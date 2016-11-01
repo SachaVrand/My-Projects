@@ -1,0 +1,23 @@
+size 640 480
+
+camera 2 2 8 2 2 2 0 1 0 45
+
+directional 1 1 1 1 1 1
+
+diffuse .3 .3 .3
+plane 0 0 -2 0 0 1
+
+diffuse 0 1 1
+
+shadow true
+translate 1 1 1
+pushTransform
+rotate 0 1 0 45
+scale 1 1 2
+sphere 0 0 0 1
+popTransform
+pushTransform
+translate 2 2 2
+scale .5 .5 .5
+sphere 0 0 0 1
+popTransform

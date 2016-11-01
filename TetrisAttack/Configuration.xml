@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+	<keyboardSetting id="1">
+		<haut>90</haut>
+		<gauche>81</gauche>
+		<droite>68</droite>
+		<bas>83</bas>
+		<echange>86</echange>
+		<montee>66</montee>
+	</keyboardSetting>
+	<keyboardSetting id="2">
+		<haut>38</haut>
+		<bas>40</bas>
+		<droite>39</droite>
+		<gauche>37</gauche>
+		<echange>97</echange>
+		<montee>98</montee>
+	</keyboardSetting>
+	<resolution>3</resolution>
+	<volume>-20</volume>
+</configuration>

@@ -1,0 +1,18 @@
+size 640 480
+
+output tp8s4.png
+
+camera 0 0 6 0 0 0 0 1 0 45
+
+directional 0 0 1 1 1 1
+
+maxverts 3
+vertex 1 0 0
+vertex -1 0 0
+vertex 0 1 0
+
+ambient .1 0 0
+
+scale 2 .55555 1
+diffuse .9 0 0
+tri 1 0 2
